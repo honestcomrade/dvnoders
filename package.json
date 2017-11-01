@@ -2,9 +2,10 @@
   "name": "dvnoders",
   "version": "1.0.0",
   "description": "a tutorial on running a remote node.js server with google cloud console Edit",
-  "main": "index.js",
+  "main": "dvnoders.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dvnoders.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/honestcomrade/dvnoders/issues"
   },
-  "homepage": "https://github.com/honestcomrade/dvnoders#readme"
+  "homepage": "https://github.com/honestcomrade/dvnoders#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
