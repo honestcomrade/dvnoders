@@ -5,3 +5,6 @@
 #### A few things you'll need for this tutorial
 * a computer
 * a gmail account
+
+#### You can follow the steps listed in this slideshow to get you through this tutorial
+[https://docs.google.com/presentation/d/1pXtbGgd9mOVol-rRGoN4a2b6SSIoXiKoj_fQ12n9zUo/edit?usp=sharing](GUIDE)
