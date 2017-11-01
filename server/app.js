@@ -3,7 +3,7 @@ var path = require('path')
 var app = express()
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname + '/dvnoders.html'));  
+  res.sendFile(path.join(__dirname + '/../public/dvnoders.html'));  
 })
 
 app.listen(8080, function () {
