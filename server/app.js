@@ -10,7 +10,7 @@ app.listen(8080, function () {
 
 app.get('/', function (req, res) {
   count++;
-  fs.readFile('../public/dvnoders.html', 'utf8', function (err, data) {
+  fs.readFile('../public/index.html', 'utf8', function (err, data) {
   
     if (err) {
       return console.log(err);
